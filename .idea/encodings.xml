@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config_filters" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/water/weichart/ServletInitializer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/water/weichart/WebAppStart.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/application.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/spring-dubbo-consumer.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" charset="UTF-8" />
+  </component>
+</project>
