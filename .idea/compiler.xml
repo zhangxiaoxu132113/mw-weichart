@@ -22,11 +22,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="mw-weichart" />
+        <module name="wechat-frameword" />
+        <module name="wechat-reception" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="mw-weichart" target="1.8" />
+      <module name="wechat-frameword" target="1.8" />
+      <module name="wechat-reception" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

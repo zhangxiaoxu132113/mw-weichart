@@ -10,5 +10,7 @@
     <file url="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources/spring-dubbo-consumer.xml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-frameword" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-reception" charset="UTF-8" />
   </component>
 </project>

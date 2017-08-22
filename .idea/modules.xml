@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mw-weichart.iml" filepath="$PROJECT_DIR$/mw-weichart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechat-frameword/wechat-frameword.iml" filepath="$PROJECT_DIR$/wechat-frameword/wechat-frameword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechat-reception/wechat-reception.iml" filepath="$PROJECT_DIR$/wechat-reception/wechat-reception.iml" />
     </modules>
   </component>
 </project>
