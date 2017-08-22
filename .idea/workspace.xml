@@ -2,94 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="980a6058-09dd-4863-bc54-f481b11d2d9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/resp/Article.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/core/handle/BaseHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/req/BaseMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/resp/BaseMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/core/redis/CacheManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/core/redis/CacheManagerImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/utils/CheckSignatureUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/utils/Constants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/utils/Constants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/resp/CustomerMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/web/dispatcher/EventDispatcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/core/handle/HandlerContainer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/resp/Image.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/req/ImageMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/resp/ImageMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/req/LinkMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/core/redis/ListTranscoder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/req/LocationMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_studio_org_dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/utils/MessageUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/core/annotations/MsgType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/resp/Music.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/resp/MusicMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/resp/NewsMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/core/redis/RedisCacheManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/core/handle/event/ScanHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/core/redis/SerializeTranscoder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/ServletInitializer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/core/redis/ShardedJedisPoolFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/core/redis/ShardedJedisProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/utils/StringUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/req/TextMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/resp/TextMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/utils/TimeHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/resp/Video.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/req/VideoMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/resp/VideoMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/resp/Voice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/req/VoiceMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/java/com/water/wechat/framework/message/resp/VoiceMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/WebAppStart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/web/controller/WechatController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/java/com/water/wechat/reception/core/WechatDispatcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/src/main/resources/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/wechat-frameword.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-reception/wechat-reception.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat-frameword/src/main/resources/wf.config.properties" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\src\main\java\com\water\weichart\ServletInitializer.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\src\main\java\com\water\weichart\WebAppStart.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\src\main\java\com\water\weichart\db\controller\WXController.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\src\main\java\com\water\weichart\utils\Constants.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\src\main\java\com\water\weichart\utils\StringUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\src\main\java\com\water\weichart\utils\WechatHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\src\main\java\com\water\weichart\web\dto\BaseMessage.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\src\main\resources\application.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\src\main\resources\applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\src\main\resources\mybatis-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\src\main\resources\spring-dubbo-consumer.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\src\main\resources\spring-mybatis.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\target\MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\target\classes\application.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\target\classes\applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\target\classes\com\water\weichart\ServletInitializer.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\target\classes\com\water\weichart\WebAppStart.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\target\classes\com\water\weichart\db\controller\WXController.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\target\classes\com\water\weichart\utils\Constants.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\target\classes\com\water\weichart\utils\StringUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\target\classes\com\water\weichart\utils\WechatHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\target\classes\mybatis-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\target\classes\spring-dubbo-consumer.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\company\mw-weichart\target\classes\spring-mybatis.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/39ask_doc.log" afterPath="$PROJECT_DIR$/39ask_doc.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config_filters/dev/config-dev.properties" afterPath="$PROJECT_DIR$/config_filters/dev/config-dev.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config_filters/product/config-product.properties" afterPath="$PROJECT_DIR$/config_filters/product/config-product.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config_filters/test/config-test.properties" afterPath="$PROJECT_DIR$/config_filters/test/config-test.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mw-weichart.iml" afterPath="$PROJECT_DIR$/mw-weichart.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="E:\company\mw-weichart\.idea\workspace.xml" afterPath="E:\company\mw-weichart\.idea\workspace.xml" />
     </list>
     <ignored path="mw-weichart.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -165,7 +78,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55737704" vertical-offset="0" max-vertical-offset="549">
+            <state vertical-scroll-proportion="1.0515463" vertical-offset="0" max-vertical-offset="468">
               <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
               <folding />
             </state>
@@ -912,12 +825,19 @@
       <option name="number" value="Default" />
       <updated>1499131621106</updated>
       <workItem from="1499131622664" duration="13398000" />
-      <workItem from="1503381708432" duration="10194000" />
+      <workItem from="1503381708432" duration="10402000" />
     </task>
+    <task id="LOCAL-00001" summary="wechat项目的搭建">
+      <created>1503391965023</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1503391965023</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23592000" />
+    <option name="totallyTimeSpent" value="23800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1394" height="916" extended-state="0" />
@@ -935,7 +855,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934132" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29336736" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908162" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32908162" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30913174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -968,6 +888,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="wechat项目的搭建" />
+    <option name="LAST_COMMIT_MESSAGE" value="wechat项目的搭建" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1210,7 +1132,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55737704" vertical-offset="0" max-vertical-offset="549">
+        <state vertical-scroll-proportion="1.0515463" vertical-offset="0" max-vertical-offset="468">
           <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
           <folding />
         </state>
